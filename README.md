@@ -33,3 +33,9 @@ DailyUber provides the 2016 data. By using this data find out the demand and sup
 * Examine the rate of customer turnover within the bank, as it is essential to comprehend the reasons behind customer departures.
 * Develop a Machine Learning Model capable of identifying the key factors that greatly impact customer turnover or attrition.
 * Choose the most reliable model that will attach a probability to the churn to make it easier for customer service to target right customer in order to minimize their efforts to prevent customers churn.
+
+# [Project 3: Tableau - Wie schnell fährt der Zug?](https://github.com/pacorod1998/Tableau---Wie-schnell-f-hrt-der-Zug-/tree/main)
+
+**Background**
+* The following Dashboard is about the trains in Germany from the Deutschebahn company, where the mapped routes allow you to see how fast the trains are on the respective segments.
+* This is an Exploratory dashboard, which means it doesn't answer any specific question. Instead, it is a tool that lets the audience search for their own answers. You can click on the attached link to interact with the visualization.
